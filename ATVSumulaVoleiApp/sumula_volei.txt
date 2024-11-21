@@ -1,0 +1,44 @@
+SÚMULA DE VÔLEI
+=================
+Árbitro: Debora
+Local: Liberatti
+Horário Início: 21:15
+Horário Fim: 22:50
+
+Time 1: Osasco
+Jogadores:
+ - Brait
+ - Sehila
+ - Polina
+ - Natalia
+ - Tiffany
+ - Kenia
+ - Ester
+ - Mayara
+ - Clara
+ - Jamile
+ - Juliana
+ - Luiza
+Pontuações: [12, 0, 11, 25, 10, 5, 8, 10, 9, 19, 12, 11]
+Erros: 22
+Acertos: 80
+
+Time 2: Sesc Flamengo
+Jogadores:
+ - Brie
+ - helena
+ - lais
+ - lucia
+ - michelle
+ - leandra
+ - luzia
+ - leticia
+ - milka
+ - eduarda
+ - natalia
+ - luana
+Pontuações: [3, 9, 18, 12, 13, 11, 15, 16, 0, 12, 11, 2]
+Erros: 24
+Acertos: 78
+
+Resultado Final: OSASCO 3X2 SESC
